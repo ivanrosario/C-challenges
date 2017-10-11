@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{15419128-767D-446B-A2B4-1EBF74B31D3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeeklyChallenge1/Program.cs">
+    <Files>
+      <File FileName="WeeklyChallenge1/hello_world.cs" Line="11" Column="31" />
+      <File FileName="WeeklyChallenge1/Program.cs" Line="5" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeeklyChallenge1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

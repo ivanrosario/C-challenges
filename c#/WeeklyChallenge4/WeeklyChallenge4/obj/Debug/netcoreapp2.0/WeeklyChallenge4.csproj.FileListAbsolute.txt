@@ -1,0 +1,11 @@
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/obj/Debug/netcoreapp2.0/WeeklyChallenge4.csprojResolveAssemblyReference.cache
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/obj/Debug/netcoreapp2.0/WeeklyChallenge4.csproj.CoreCompileInputs.cache
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/obj/Debug/netcoreapp2.0/WeeklyChallenge4.AssemblyInfoInputs.cache
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/obj/Debug/netcoreapp2.0/WeeklyChallenge4.AssemblyInfo.cs
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/bin/Debug/netcoreapp2.0/WeeklyChallenge4.deps.json
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/bin/Debug/netcoreapp2.0/WeeklyChallenge4.runtimeconfig.json
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/bin/Debug/netcoreapp2.0/WeeklyChallenge4.runtimeconfig.dev.json
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/bin/Debug/netcoreapp2.0/WeeklyChallenge4.dll
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/bin/Debug/netcoreapp2.0/WeeklyChallenge4.pdb
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/obj/Debug/netcoreapp2.0/WeeklyChallenge4.dll
+/Users/ivanrosario/Projects/WeeklyChallenge4/WeeklyChallenge4/obj/Debug/netcoreapp2.0/WeeklyChallenge4.pdb
